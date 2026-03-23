@@ -72,10 +72,6 @@ public class Array implements ArrayInterface {
       return size == members.length; 
     }
   
-  
-  
-
-  
     public boolean isEmpty() {
   
       return size == 0;

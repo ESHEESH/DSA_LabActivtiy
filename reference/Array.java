@@ -1,4 +1,4 @@
-package array;
+package reference;
 
 public class Array implements ArrayInterface {
     private String[] elements;

@@ -1,4 +1,4 @@
-package array;
+package reference;
 
 public interface ArrayInterface {
     boolean insert(String name);
